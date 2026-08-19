@@ -1,0 +1,6 @@
+{
+  "name": "Cờ Vua Của Win",
+  "description": "Trò chơi cờ vua 2 người vui vẻ, dễ thương dành cho trẻ em - Chúc mừng sinh nhật Win 7 tuổi!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
